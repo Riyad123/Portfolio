@@ -64,7 +64,8 @@ body h4{
 }
 
 .loading h1 {
-    font-style: oblique
+    font-style: oblique;
+    margin-top:50px;
 }
 
 .thecube {
