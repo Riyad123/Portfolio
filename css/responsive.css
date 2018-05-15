@@ -1,0 +1,1211 @@
+@media only screen and (min-width: 2100px) {
+
+    /*about page about page about page about page*/
+    .personalInfo {
+        height: 750px;
+    }
+
+    .skill-section {
+        height: 1090px;
+
+    }
+
+    .testimonial-section {
+        height: 900px
+    }
+
+
+
+    /* service page service page service page service page service page service page service */
+    .servicesMain {
+        height: 1100px
+    }
+
+
+    .service-page-about {
+
+        height: 700px
+    }
+
+
+
+
+}
+
+
+@media only screen and (min-width: 1800px) {
+
+    .service-page-about {
+
+        height: 650px
+    }
+}
+
+
+
+@media only screen and (max-width: 1920px) {}
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 1440px) {}
+
+
+
+
+
+@media only screen and (max-width: 1366px) {}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 1280px) {}
+
+
+
+
+
+/*responsive for tablet*/
+
+@media only screen and (max-width: 1080px) {
+
+    /*service page service page service page service 
+    page */
+    .service-page-about {
+        background: #f7f7f7;
+        width: 100%;
+        height: 750px
+    }
+
+
+    .service-page-image {
+        height: 240px;
+        width: 100%
+    }
+
+    .service-page-image img {
+        width: 450px;
+        height: 100%;
+    }
+
+    .service-page-content {
+        width: 85%;
+        margin: 0 auto;
+        position: relative;
+        top: 25px
+    }
+
+    .service-page-content h3 {
+        padding-right: 0px;
+    }
+    .service-page-content p {
+        padding: 10px 0px 0px 0px;
+    }
+
+
+    
+    .work-banner{
+    height:450px;
+}
+    
+    
+    
+    .wrap{
+    width:95%;
+}
+    .wrap h1{
+    font-size:40px;
+}
+    
+
+
+}
+
+
+
+
+
+@media only screen and (max-width: 1024px) {}
+
+
+
+
+
+
+@media only screen and (max-width: 800px) {
+
+
+    body p {
+        font-size: 13px
+    }
+    body a {
+        font-size: 15px
+    }
+
+    body h1 {
+        font-size: 35px
+    }
+
+    body h2 {
+        font-size: 22px
+    }
+
+    body h3 {
+        font-size: 17px;
+    }
+
+    body h4 {
+        font-size: 15px
+    }
+    .personal ul li {
+        font-size: 13px;
+    }
+
+
+
+
+
+
+    /*Home section home section home section home section home section home section home section*/
+    .Home-banner {
+        height: 500px;
+        background-size: contain;
+        background-position: 0px 0px;
+    }
+
+    .name-box {
+        top: 250px;
+    }
+
+
+    .text1 {
+        font-size: 45px;
+        margin-bottom: 20px;
+        animation: none;
+    }
+    .text1 span {
+
+        animation: none;
+    }
+
+
+    .typing {
+        font-size: 22px;
+        color: #fffbfb;
+        font-weight: 300;
+    }
+
+    .Home-about {
+        height: 620px;
+    }
+
+    .imageSide {
+        width: 30%;
+
+    }
+
+    .image {
+        margin-right: 10px;
+        width: 85%;
+    }
+
+    .contentSide {
+        width: 70%;
+    }
+
+    .content h3 {
+        margin-top: 0;
+    }
+
+
+
+    .home-services {
+        height: 1100px
+    }
+
+
+
+    .serviceSection {
+
+        position: relative;
+        top: -60px
+    }
+
+    .service {
+        width: 45%;
+    }
+
+    .service img {
+        width: 40px
+    }
+
+
+    .home-portfolio {
+        padding-bottom: 150px;
+    }
+
+
+    .element-item {
+        width: 45%;
+        height: 200px;
+    }
+
+    .link h3,
+    .link p {
+        top: 20px;
+    }
+    .link a {
+        top: 20px;
+
+    }
+
+
+
+    .info-section {
+        width: 33%;
+        float: left;
+        padding-left: 25px;
+    }
+
+    .mail-section {
+        width: 53%;
+        float: left;
+        padding-left: 40px
+    }
+
+
+
+
+
+
+
+    .field {
+        display: flex;
+        flex-flow: column-reverse;
+        margin-bottom: 35px;
+        width: 100%;
+        font-family: 'Poppins', sans-serif;
+    }
+
+
+
+    /* about page about page about page about page about page about page about page about page about page about page about page*/
+    .profile {
+        width: 50%;
+        left: 80px;
+    }
+
+    .profile h3:after {
+        width: 38%;
+    }
+
+
+
+    .skill-section {
+        height: 1100px;
+        width: 100%;
+    }
+
+
+
+    .circleSec {
+        display: block;
+        top: 50px;
+
+    }
+    .circle {
+        float: left;
+        margin-left: 9%;
+    }
+
+
+
+
+    .clientSec {
+        width: 40%;
+        margin-top: 80px
+    }
+
+
+    .lets {
+
+        top: 0px;
+    }
+
+
+
+
+
+
+
+
+
+}
+
+
+
+@media only screen and (max-width:720px) {
+
+
+
+    .Home-banner {
+        width: 100%;
+        height: 400px !important;
+        background-size: contain;
+    }
+    .name-box {
+        top: 200px;
+    }
+
+    .Home-about {
+        width: 100%;
+        height: 670px;
+    }
+    .heading {
+        width: 100%;
+        position: relative;
+        top: -40px
+    }
+
+    .filterNav {
+        width: 590px;
+    }
+
+    .button {
+        display: inline-block;
+        padding: 1px 8px;
+    }
+
+
+    /* about page about page about page about page about page about page about page about page about page about page about page about page*/
+    .about-banner {
+        height: 550px;
+
+    }
+
+
+    #particles-js {
+        height: 100%;
+    }
+
+    #particles-js img {
+        height: 150px;
+        width: 150px;
+    }
+    #particles-js p {
+        top: 50%;
+        font-size: 23px;
+        line-height: 1;
+
+    }
+    #particles-js span {
+        font-size: 40px
+    }
+
+
+    .personalInfo {
+        height: 960px;
+
+    }
+
+    .personal-box {
+        width: 100%;
+    }
+
+    .personal {
+        width: 100%;
+    }
+
+    .personal h3:after {
+        display: none;
+    }
+
+    .profile {
+        width: 80%;
+        left: 60px;
+    }
+    .profile h3:after {
+        display: none
+    }
+
+    .aboutBtn {
+        top: 45px
+    }
+
+
+    .skill-section {
+        height: 1070px;
+        width: 100%;
+        background: #f7f7f7;
+    }
+
+
+    .circle {
+        float: left;
+        margin-left: 5%
+    }
+
+    .counter-section {
+        padding-bottom: 120px
+    }
+    .testimonial h1 {
+        top: -20px
+    }
+
+    .lets h2 {
+        font-size: 35px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+/*responsive for mobile*/
+
+@media only screen and (max-width: 599px) {
+
+
+
+    body p {
+        font-size: 10px
+    }
+    body a {
+        font-size: 12px
+    }
+
+    body h1 {
+        font-size: 22px
+    }
+    body h2 {
+        font-size: 16px;
+    }
+
+    body h3 {
+        font-size: 12px
+    }
+
+    body h4 {
+        font-size: 11px
+    }
+
+    .personal ul li {
+        font-size: 10px
+    }
+
+
+
+
+    .loading h1 {
+        display: none;
+    }
+
+    /*divider*/
+    .footDivider,
+    .divider {
+        display: none
+    }
+
+
+    .header .logo {
+        margin-left: 10px;
+    }
+
+    .logo img {
+        width: 70px;
+        top: 20px
+    }
+
+    .menu ul li a {
+        font-size: 10px;
+
+    }
+
+
+    .Home-banner {
+        height: 300px !important;
+        background-attachment: fixed;
+        background-size: cover
+    }
+
+
+    .name-box {
+        top: 160px;
+    }
+
+    .text1 {
+        width: 300px;
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+
+
+    .typing {
+        font-size: 15px;
+    }
+
+
+
+    /*start home about*/
+    .Home-about {
+        width: 100%;
+        height: 630px;
+    }
+    .imageSide {
+        width: 100%;
+        padding: 22px 0px;
+
+    }
+
+    .image {
+        width: 120px;
+        margin: 0 auto;
+        float: none;
+        text-align: center;
+        height: 120px;
+        overflow: hidden;
+        border-radius: 50%
+    }
+
+    .image img {
+        width: 130px;
+        height: 170px
+    }
+
+    .contentSide {
+        width: 100%;
+        text-align: justify;
+        max-width: 320px;
+        float: none;
+        margin: 0 auto;
+
+    }
+
+    .content {
+        padding: 0px 15px
+    }
+
+
+    .btn {
+        top: 30px;
+        font-size: 9px;
+        left: 0px
+    }
+
+    .btn a:nth-child(1) {
+        float: left;
+        padding: 9px;
+        text-align: center
+    }
+
+    .btn a:nth-child(2) {
+        padding: 9px;
+        position: relative;
+        top: 11px;
+    }
+
+
+    .home-services {
+        height: 1330px
+    }
+    .heading {
+        top: 0px;
+        padding: 25px 0px
+    }
+
+    .service {
+        width: 100%;
+        height: 160px;
+        margin-left: 0%;
+    }
+    .service p {
+        padding: 0px 10px;
+    }
+
+    .home-portfolio {
+        padding-bottom: 80px;
+    }
+
+    .filterNav {
+        top: 0px;
+        width: 290px;
+    }
+
+
+
+
+
+    .button {
+        padding: 0px 5px;
+        background: none;
+        font-size: 10px;
+        margin-top: 8px
+    }
+
+
+
+
+
+
+
+
+    .element-item {
+        width: 100%;
+        margin-left: 0%;
+        height: 200px;
+        margin-top: 15px;
+        overflow: hidden;
+    }
+
+
+    .informationForm {
+        height: 600px;
+    }
+
+    .informationForm h2 {
+        padding-top: 25px;
+        text-align: center;
+    }
+
+
+    .info-section {
+        width: 100%;
+        padding-left: 0px;
+        margin: 0 auto;
+        text-align: center
+    }
+
+
+    .mail-section {
+        width: 100%;
+        float: left;
+        padding-left: 0px;
+        background: #f7f7f7;
+        height: 350px
+    }
+
+
+
+
+
+
+    .field {
+        width: 90%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+
+    textarea {
+        font-size: 10px;
+        height: 50px;
+    }
+
+
+    input {
+        font-size: 10px;
+    }
+    label {
+        font-size: 10px
+    }
+
+    .mail-section button {
+        padding: 7px;
+        font-size: 10px;
+        margin: 0 auto;
+        position: relative;
+        left: 35%;
+    }
+
+
+
+    .foot {
+        height: 240px;
+        width: 100%;
+        margin-top: 0px;
+        position: relative;
+    }
+
+    .footer-box {
+        width: 100%;
+        position: relative;
+        top: 40px
+    }
+
+
+    .foot h4 {
+        font-size: 16px;
+        margin-bottom: 0px;
+        margin-top: 0px
+    }
+    .social-link {
+        height: 60px;
+    }
+
+    .social {
+        width: 240px;
+        margin: 0 auto;
+
+    }
+
+    .social ul li {
+        margin: 0 16px;
+    }
+
+    .social ul li a {
+        font-size: 15px;
+        padding: 1px 0px;
+        height: 30px;
+        width: 30px;
+    }
+    .social ul li a:before {
+
+        top: 4px;
+        left: -7px;
+        width: 7px;
+    }
+    .social ul li a:after {
+        bottom: -7px;
+        left: -3px;
+        height: 7px;
+    }
+
+
+
+
+
+    .copyright p {
+        position: relative;
+        top: 25px
+    }
+
+
+
+    /*about page about page about page about page about page about page about page about page about page*/
+    .about-banner {
+        height: 450px;
+        width: 100%;
+        background: url(../img/background/seven.jpeg);
+        background-attachment: fixed;
+        background-size: 100% 80%;
+        margin: 0 auto;
+        position: relative;
+
+    }
+
+
+    #particles-js {
+        height: 450px;
+        width: 100%;
+    }
+
+    #particles-js img {
+        height: 120px;
+        width: 120px;
+        top: 40%;
+    }
+    #particles-js p {
+        font-size: 18px;
+        width: 200px;
+        text-align: left;
+        line-height: 1.3;
+        margin: 0 auto;
+        top: 60%
+    }
+    #particles-js span {
+        display: none
+    }
+
+
+
+
+
+    .personalInfo {
+        height: 700px;
+        background: #FFFFFF;
+        position: relative;
+    }
+
+
+    .personalInfo h3 {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+    }
+
+    .personal {
+        height: 100%;
+        padding-left: 0px;
+    }
+    .personal h3 {
+        padding-left: 13px;
+    }
+
+    .personal ul li {
+        position: relative;
+        left: -22px
+    }
+
+    .profile {
+        height: 100%;
+        width: 85%;
+        float: left;
+        text-align: justify;
+        position: relative;
+        left: 20px;
+    }
+
+
+
+    .aboutBtn {
+        position: relative;
+        top: 20px
+    }
+
+
+
+    .skill-section {
+        height: 1510px;
+    }
+
+    .skill-section h1 {
+        position: relative;
+        top: 10px
+    }
+
+
+    .professional-skill {
+        height: 300px;
+    }
+
+    .professional-skill ul {
+        top: 40px
+    }
+
+
+
+    .circle {
+        margin: 0 auto;
+        width: 100%
+    }
+
+    .tox-progress {
+        position: relative;
+        margin: 0 auto
+    }
+
+    .circleBack {
+        display: none;
+
+    }
+
+
+    .education h1,
+    .experience h1 {
+        position: relative;
+        top: 15px
+    }
+
+    .education-section,
+    .experience-section {
+        padding-bottom: 10px
+    }
+
+    .education-section h2,
+    .experience-section h2 {
+        font-size: 16px;
+    }
+
+    .education-section h4,
+    .experience-section h4 {
+        font-size: 11px;
+    }
+
+    .education-section p,
+    .experience-section p {
+        font-size: 10px;
+    }
+
+    .counter-section {
+        width: 100%;
+        background: white;
+        padding-bottom: 30px
+    }
+
+    .clientSec {
+        width: 85%;
+        height: 150px;
+        margin-top: 60px
+    }
+    .clientCounter {
+        top: -30px
+    }
+
+    .client p {
+        position: relative;
+        top: -30px
+    }
+
+
+
+
+    .testimonial-section {
+        width: 100%;
+        background: #f7f7f7;
+        height: 580px
+    }
+
+    .testimonial h1 {
+        margin-top: 0px;
+        position: relative;
+        top: 20px
+    }
+    .slider {
+        position: relative;
+        top: 40px
+    }
+
+    .lets {
+        width: 100%;
+        height: 180px;
+        top: 0px;
+    }
+
+    .lets h3 {
+        margin-top: 50px
+    }
+
+    .lets h2 {
+        font-size: 20px
+    }
+
+
+
+
+    /*service page service page service page service page*/
+    .servicebanner {
+        height: 260px;
+
+    }
+
+    .servicebanner h1 {
+        font-size: 40px;
+        top: 100px;
+    }
+
+    .servicesMain {
+        height: 1440px
+    }
+
+    .home-services > .heading h3 {
+        font-size: 19px;
+        margin: 0
+    }
+
+
+    .service-page-image img {
+        width: 100%;
+        position: relative;
+        margin-top: 30px;
+        max-width: 310px;
+        height: 200px
+    }
+
+    .service-page-about {
+        background: #f7f7f7;
+        width: 100%;
+        height: 640px
+    }
+
+
+    .service-page-content {
+        width: 100%;
+        top: 10px;
+        max-width: 310px
+    }
+
+    .service-page-content h3 {
+        font-size: 19px;
+
+    }
+    
+    
+    
+   /* work page work page work page work page work page work page work page*/
+    
+    
+     .work-banner{
+    height:300px;
+}
+    
+    .wrap{
+    width:100%;
+}
+    .wrap h1{
+    font-size:27px;
+}
+    
+    #textSlider{
+        position:relative;
+        top:10px
+    }
+    
+
+
+}
+
+
+    
+    
+    
+    
+    
+
+
+}
+
+
+
+
+
+
+@media only screen and (max-width: 414px) {}
+
+
+
+
+@media only screen and (max-width: 360px) {}
+
+
+
+
+@media only screen and (max-width: 320px) {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*resposive responsive responsive responsive responsive responsive */
+
+/*screen for over 2050*/
+
+@media only screen and (min-width: 2050px) {
+
+
+
+    /*divider*/
+    .divider {
+        top: -110px
+    }
+
+
+
+
+
+}
+
+/*screen for max 1250*/
+
+@media only screen and (max-width: 1250px) {
+
+
+    /*divider*/
+    .divider {
+        top: -55px
+    }
+
+
+
+}
+
+
+
+
+
+/*screen for max 740*/
+
+@media only screen and (max-width: 740px) {
+
+    .Home-banner {
+        height: 450px;
+    }
+
+
+    /*menubar*/
+    .nav label {
+        display: block;
+        cursor: pointer;
+        position: relative;
+        z-index: 1200
+    }
+    .menu ul {
+        width: 100%;
+        position: absolute;
+        z-index: 10;
+        background: black;
+        padding-bottom: 40px;
+        margin: 0 auto;
+        left: 600px;
+        top: 80px;
+        transition: 1s
+    }
+    .menu ul li {
+        margin-top: 10px;
+        position: relative;
+        float: none;
+        width: 100%;
+        margin-left: -25px
+    }
+    .menu ul li a {
+        color: white
+    }
+
+    .fixedHeader .menu ul li .active {
+        color: white
+    }
+    .fixedHeader ul li a:hover {
+        color: white;
+    }
+
+    #toggle:checked + .menu ul {
+        left: -35%;
+    }
+
+
+    /*divider*/
+    .divider {
+        top: -40px;
+    }
+
+
+}
+
+
+/*screen for max 740*/
