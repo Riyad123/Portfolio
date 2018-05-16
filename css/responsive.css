@@ -254,9 +254,6 @@
         padding-bottom: 150px;
     }
     
-    .filterNav {
-       width:730px;
-    }
 
 
     .element-item {
@@ -381,15 +378,11 @@
         position: relative;
         top: -40px
     }
-
-    .filterNav {
-        width: 590px;
-    }
-
     .button {
-        display: inline-block;
-        padding: 1px 8px;
+        margin-top: 8px;
+         padding: 1px 8px;
     }
+
 
 
     /* about page about page about page about page about page about page about page about page about page about page about page about page*/
@@ -648,7 +641,6 @@
 
     .filterNav {
         top: 0px;
-        width: 290px;
     }
 
 
@@ -670,11 +662,11 @@
 
 
     .element-item {
-        width: 100%;
-        margin-left: 0%;
+        width: 90%;
         height: 200px;
         margin-top: 15px;
         overflow: hidden;
+        margin-left:5%
     }
 
 
