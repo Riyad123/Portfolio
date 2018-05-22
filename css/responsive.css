@@ -588,21 +588,57 @@
     .divider {
         display: none
     }
+    
+    
+    
+    
+    .header {
+    height: 45px;
+}
+
+
+.logo img {
+    width: 60px;
+    top: 10px
+}
+.nav {
+    line-height: 30px;
+    position: relative;
+}
+
+.menu ul {
+    right: 60px;
+    top:45px !important
+}
+
+.menu ul li {
+    height: 15px;
+}
+
+
+.nav label {
+    margin: 0 20px 0 0;
+    font-size: 20px;
+    line-height: 50px;
+    
+}
 
 
     .header .logo {
         margin-left: 10px;
     }
 
-    .logo img {
-        width: 70px;
-        top: 20px
-    }
+   
 
     .menu ul li a {
         font-size: 10px;
 
     }
+    
+    
+    
+    
+    
 
 
     .Home-banner {
@@ -1204,7 +1240,228 @@
 
 
 
-@media only screen and (max-width: 320px) {}
+@media only screen and (max-width: 310px) {
+    
+   /* start homepage start homepage start home page start home page*/
+    
+    
+    .header {
+    height: 45px;
+}
+
+.nav {
+    line-height: 40px;
+    position: relative;
+}
+
+    
+    
+    
+    
+     .Home-banner {
+        height: 250px !important;
+    }
+
+
+    .name-box {
+        top: 130px;
+    }
+
+    .text1 {
+        width: 190px;
+        font-size: 20px;
+    }
+
+
+    .typing {
+        font-size: 13px;
+    }
+
+
+
+    /*start home about*/
+    .Home-about {
+        width: 100%;
+        height: 700px;
+    }
+
+
+
+    .btn {
+        top: 15px;
+    }
+
+    .btn a:nth-child(1) {
+        padding: 8px;
+        font-size:8px
+    }
+
+    .btn a:nth-child(2) {
+        padding: 8px;
+
+        top: 9px;
+         font-size:8px
+    }
+
+
+    .element-item {
+        height: 150px;
+        margin-top: 15px;
+    }
+
+    .foot {
+        height: 200px;
+    }
+
+    .footer-box {
+        top: 20px
+    }
+
+    .social {
+        width: 210px;
+        margin: 0 auto;
+
+    }
+
+    .social ul li {
+        margin: 0 14px;
+    }
+
+    .social ul li a {
+        font-size: 12px;
+        height: 23px;
+        width: 25px;
+    }
+
+    /*about page about page about page about page about page about page about page about page about page*/
+    .about-banner {
+        height: 310px;
+    }
+
+
+    #particles-js {
+        height: 310px;
+    }
+
+    #particles-js img {
+        height: 90px;
+        width: 90px;
+    }
+    #particles-js p {
+        font-size: 15px;
+        text-align:center;
+        top: 57%
+    }
+
+    .personalInfo {
+        height: 640px;
+        background: #FFFFFF;
+        position: relative;
+    }
+
+
+    .personalInfo h3 {
+        margin-bottom:0
+    }
+
+    .personal ul li {
+        padding-top:10px
+    }
+
+
+    .aboutBtn {
+        top: 10px
+    }
+
+
+
+    .skill-section {
+        height: 1510px;
+    }
+
+    .skill-section h1 {
+        position: relative;
+        top: 10px
+    }
+
+
+    .professional-skill {
+        height: 270px;
+    }
+
+    .professional-skill ul {
+        top: 10px
+    }
+
+
+
+    .circle {
+        margin: 0 auto;
+        width: 100%
+    }
+
+    
+
+
+    .education-section h2,
+    .experience-section h2 {
+        font-size: 12px;
+    }
+
+    .education-section h4,
+    .experience-section h4 {
+        font-size: 10px;
+    }
+
+    .education-section p,
+    .experience-section p {
+        font-size: 10px;
+    }
+    
+    .cd-timeline-content .cd-date{
+        font-size:11px
+    }
+
+    .clientSec {
+        width: 80%;
+        height: 150px;
+        margin-top: 60px;
+        left:-10px
+    }
+
+    .testimonial-section{
+        height:620px
+    }
+
+    .lets {
+        width: 100%;
+        height: 180px;
+        top: 0px;
+    }
+
+    .lets h3 {
+        margin-top: 50px
+    }
+
+    .lets h2 {
+        font-size: 20px
+    }
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
 
 
 
