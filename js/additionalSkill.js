@@ -32,7 +32,7 @@ $(document).ready(function(){
 });
         
     },{
-        offset: "90%"
+        offset: "70%"
     });
     
     

@@ -1449,7 +1449,15 @@
 
 
 
-
+.service-page-about{
+    background:#f7f7f7;
+    height:800px;
+}
+.service-des{
+    width:95%;
+    margin:0 auto;
+}
+    
 
 
     
